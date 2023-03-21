@@ -116,87 +116,87 @@
 		"id": "1",
 		"source": "1",
 		"target": "2",
-		"relation": "Suffer"
+		"label": "Suffer"
 	}, {
 		"id": "2",
 		"source": "3",
 		"target": "11",
-		"relation": "UnitNum"
+		"label": "UnitNum"
 	}, {
 		"id": "4",
 		"source": "1",
 		"target": "3",
-		"relation": "PreviousTreat"
+		"label": "PreviousTreat"
 	}, {
 		"id": "5",
 		"source": "6",
 		"target": "12",
-		"relation": "When"
+		"label": "When"
 	}, {
 		"id": "3",
 		"source": "5",
 		"target": "13",
-		"relation": "HasLevel"
+		"label": "HasLevel"
 	}, {
 		"id": "6",
 		"source": "6",
 		"target": "7",
-		"relation": "HasSideEffect"
+		"label": "HasSideEffect"
 	}, {
 		"id": "8",
 		"source": "1",
 		"target": "6",
-		"relation": "LastTreat"
+		"label": "LastTreat"
 	}, {
 		"id": "9",
 		"source": "1",
 		"target": "9",
-		"relation": "ThisTreat"
+		"label": "ThisTreat"
 	}, {
 		"id": "10",
 		"source": "9",
 		"target": "10",
-		"relation": "Inject"
+		"label": "Inject"
 	}, {
 		"id": "11",
 		"source": "9",
 		"target": "8",
-		"relation": "When"
+		"label": "When"
 	}, {
 		"id": "12",
 		"source": "1",
 		"target": "15",
-		"relation": "Show"
+		"label": "Show"
 	}, {
 		"id": "13",
 		"source": "15",
 		"target": "16",
-		"relation": "When"
+		"label": "When"
 	}, {
 		"id": "14",
 		"source": "5",
 		"target": "4",
-		"relation": "HasFrequency"
+		"label": "HasFrequency"
 	}, {
 		"id": "7",
 		"source": "7",
 		"target": "14",
-		"relation": "HasFrequency"
+		"label": "HasFrequency"
 	}, {
 		"id": "15",
 		"source": "1",
 		"target": "3",
-		"relation": "ThisTreat"
+		"label": "ThisTreat"
 	}, {
 		"id": "16",
 		"source": "1",
 		"target": "3",
-		"relation": "ThisTreat"
+		"label": "ThisTreat"
 	}, {
 		"id": "17",
 		"source": "1",
 		"target": "6",
-		"relation": "ThisTreat"
+		"label": "ThisTreat"
 	}],
 	"categories": [{
 		"name": "Disease"
