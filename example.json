@@ -111,13 +111,6 @@
 		"x": 75,
 		"y": -16,
 		"category": 4
-	}, {
-		"id": "17",
-		"name": "PID_954",
-		"symbolSize": 5,
-		"x": 20,
-		"y": 43,
-		"category": 14
 	}],
 	"links": [{
 		"id": "1",
