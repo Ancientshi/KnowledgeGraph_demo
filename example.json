@@ -114,89 +114,140 @@
 	}],
 	"links": [{
 		"id": "1",
+		"name": "Suffer",
 		"source": "1",
 		"target": "2",
-		"label": "Suffer"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "2",
+		"name": "UnitNum",
 		"source": "3",
 		"target": "11",
-		"label": "UnitNum"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "4",
+		"name": "PreviousTreat",
 		"source": "1",
 		"target": "3",
-		"label": "PreviousTreat"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "5",
+		"name": "When",
 		"source": "6",
 		"target": "12",
-		"label": "When"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "3",
+		"name": "HasLevel",
 		"source": "5",
 		"target": "13",
-		"label": "HasLevel"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "6",
+		"name": "HasSideEffect",
 		"source": "6",
 		"target": "7",
-		"label": "HasSideEffect"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "8",
+		"name": "LastTreat",
 		"source": "1",
 		"target": "6",
-		"label": "LastTreat"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "9",
+		"name": "ThisTreat",
 		"source": "1",
 		"target": "9",
-		"label": "ThisTreat"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "10",
+		"name": "Inject",
 		"source": "9",
 		"target": "10",
-		"label": "Inject"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "11",
+		"name": "When",
 		"source": "9",
 		"target": "8",
-		"label": "When"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "12",
+		"name": "Show",
 		"source": "1",
 		"target": "15",
-		"label": "Show"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "13",
+		"name": "When",
 		"source": "15",
 		"target": "16",
-		"label": "When"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "14",
+		"name": "HasFrequency",
 		"source": "5",
 		"target": "4",
-		"label": "HasFrequency"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "7",
+		"name": "HasFrequency",
 		"source": "7",
 		"target": "14",
-		"label": "HasFrequency"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "15",
+		"name": "ThisTreat",
 		"source": "1",
 		"target": "3",
-		"label": "ThisTreat"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "16",
+		"name": "ThisTreat",
 		"source": "1",
 		"target": "3",
-		"label": "ThisTreat"
+		"label": {
+			"show": true
+		}
 	}, {
 		"id": "17",
+		"name": "ThisTreat",
 		"source": "1",
 		"target": "6",
-		"label": "ThisTreat"
+		"label": {
+			"show": true
+		}
 	}],
 	"categories": [{
 		"name": "Disease"
