@@ -121,88 +121,88 @@
 	}],
 	"links": [{
 		"id": "1",
-		"source": ":T1",
-		"target": ":T2",
+		"source": "1",
+		"target": "2",
 		"relation": "Suffer"
 	}, {
 		"id": "2",
-		"source": ":T3",
-		"target": ":T11",
+		"source": "3",
+		"target": "11",
 		"relation": "UnitNum"
 	}, {
 		"id": "4",
-		"source": ":T1",
-		"target": ":T3",
+		"source": "1",
+		"target": "3",
 		"relation": "PreviousTreat"
 	}, {
 		"id": "5",
-		"source": ":T6",
-		"target": ":T12",
+		"source": "6",
+		"target": "12",
 		"relation": "When"
 	}, {
 		"id": "3",
-		"source": ":T5",
-		"target": ":T13",
+		"source": "5",
+		"target": "13",
 		"relation": "HasLevel"
 	}, {
 		"id": "6",
-		"source": ":T6",
-		"target": ":T7",
+		"source": "6",
+		"target": "7",
 		"relation": "HasSideEffect"
 	}, {
 		"id": "8",
-		"source": ":T1",
-		"target": ":T6",
+		"source": "1",
+		"target": "6",
 		"relation": "LastTreat"
 	}, {
 		"id": "9",
-		"source": ":T1",
-		"target": ":T9",
+		"source": "1",
+		"target": "9",
 		"relation": "ThisTreat"
 	}, {
 		"id": "10",
-		"source": ":T9",
-		"target": ":T10",
+		"source": "9",
+		"target": "10",
 		"relation": "Inject"
 	}, {
 		"id": "11",
-		"source": ":T9",
-		"target": ":T8",
+		"source": "9",
+		"target": "8",
 		"relation": "When"
 	}, {
 		"id": "12",
-		"source": ":T1",
-		"target": ":T15",
+		"source": "1",
+		"target": "15",
 		"relation": "Show"
 	}, {
 		"id": "13",
-		"source": ":T15",
-		"target": ":T16",
+		"source": "15",
+		"target": "16",
 		"relation": "When"
 	}, {
 		"id": "14",
-		"source": ":T5",
-		"target": ":T4",
+		"source": "5",
+		"target": "4",
 		"relation": "HasFrequency"
 	}, {
 		"id": "7",
-		"source": ":T7",
-		"target": ":T14",
+		"source": "7",
+		"target": "14",
 		"relation": "HasFrequency"
 	}, {
 		"id": "15",
-		"source": ":T1",
-		"target": ":T3",
+		"source": "1",
+		"target": "3",
 		"relation": "ThisTreat"
 	}, {
 		"id": "16",
-		"source": ":T1",
-		"target": ":T3",
+		"source": "1",
+		"target": "3",
 		"relation": "ThisTreat"
 	}, {
 		"id": "17",
-		"source": ":T1",
-		"target": ":T6",
+		"source": "1",
+		"target": "6",
 		"relation": "ThisTreat"
 	}],
 	"categories": [{
